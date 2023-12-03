@@ -13,6 +13,7 @@
 // Regex FindStringIndex gives start and end+1 in array of 2 elements... FindAllStringIndex is an array of those arrays.. This cost 15+ minutes.. holy shit.. it was so bad.. so much extra work, so much debugging..
 // On debugging, working back from answer was great. So much better than it could have been. Still could do it more.
 // Part 2 was so much better than Part 1. Solution was better structered earlier questions. Super easy to add 'added' field to numloc. Super easy to remove when not needed. Typing accuracy was main time loss ~ a minute.
+// Need to be sure to open qX folder in VS code. linters,etc so opinionated things tend to break otherwise. go.work file is not working..
 // It would be good to:
 // - Have code snipets on the side (I will need to add to/adjust the collection over time) (So far this is small enough that going over previous questions works better)
 // -- strings.Split()
